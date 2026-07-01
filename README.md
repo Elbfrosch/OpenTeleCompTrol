@@ -49,6 +49,8 @@ TeleCompTrol.sln
 ## Lizenz
 
 Die Software basiert auf dem Original von **STULZ Klimatechnik GmbH, Hamburg**.
-Alle Rechte am SDC-Protokoll und an den ursprünglichen Algorithmen liegen bei STULZ.
+allerdings nur auf Re-Engineering basis nicht auf dem Originalem Source Code (der ist nie vorhanden gewesen)
+Alle Rechte am SDC-Protokoll und an den ursprünglichen Algorithmen liegen bei STULZ, aber da diese Re-Engineered sind in diesem Programm.
+Sollte es keine Probleme mit dem Ursprung (Originalem Hersteller) geben.
 # OpenTeleCompTrol
 # OpenTeleCompTrol
