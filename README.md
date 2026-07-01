@@ -1,10 +1,13 @@
-# TeleCompTrol
+# OpenTeleCompTrol
 
 **Überwachungs- und Steuerungssoftware für STULZ-Klimaanlagen**
 
-TeleCompTrol ist eine plattformübergreifende Desktop-Anwendung zur Fernüberwachung und -steuerung
+OpenTeleCompTrol ist eine plattformübergreifende Desktop-Anwendung zur Fernüberwachung und -steuerung
 von STULZ-Klimageräten (HVAC). Die Kommunikation erfolgt über serielle Schnittstellen
 (RS-232-Modem oder RS-485-Bus) mit dem STULZ-eigenen SDC-Protokoll (Stulz Data Controller).
+Dieses Protokoll ist allerdings Re-Engineered somit können Fehler bestehen.
+Die gesammte Software ist noch nicht getestet, somit Achtung bei der Benutzung.
+Es können durchus Fehler in diesem Programm sein.
 
 ## Funktionen
 
